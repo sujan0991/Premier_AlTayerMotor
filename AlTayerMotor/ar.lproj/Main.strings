@@ -1,0 +1,146 @@
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "0Jk-id-8Qp"; */
+"0Jk-id-8Qp.text" = "Model";
+
+/* Class = "UIButton"; normalTitle = "Select Model Year*"; ObjectID = "1DP-hB-Thb"; */
+"1DP-hB-Thb.normalTitle" = "Select Model Year*";
+
+/* Class = "UITextField"; placeholder = "Phone Number*"; ObjectID = "2Vk-vk-rFp"; */
+"2Vk-vk-rFp.placeholder" = "Phone Number*";
+
+/* Class = "UIButton"; normalTitle = "Select Brand*"; ObjectID = "3LE-Fv-KyX"; */
+"3LE-Fv-KyX.normalTitle" = "Select Brand*";
+
+/* Class = "UIButton"; normalTitle = "Select Model*"; ObjectID = "5M1-qn-zDF"; */
+"5M1-qn-zDF.normalTitle" = "Select Model*";
+
+/* Class = "UILabel"; text = "TELL US ABOUT YOURSELF"; ObjectID = "5uM-fG-myH"; */
+"5uM-fG-myH.text" = "TELL US ABOUT YOURSELF";
+
+/* Class = "UITextField"; placeholder = "Registration Number*"; ObjectID = "7of-Qi-Z0M"; */
+"7of-Qi-Z0M.placeholder" = "Registration Number*";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7zT-Rd-PML"; */
+"7zT-Rd-PML.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Zb-SF-VCo"; */
+"9Zb-SF-VCo.text" = "Label";
+
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "A0H-q1-04f"; */
+"A0H-q1-04f.text" = "Expiry";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "B2l-XB-D7s"; */
+"B2l-XB-D7s.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "BZI-oh-B5R"; */
+"BZI-oh-B5R.text" = "Expiry";
+
+/* Class = "UILabel"; text = "WHAT ARE YOU DRIVING?"; ObjectID = "BjP-8t-Grc"; */
+"BjP-8t-Grc.text" = "WHAT ARE YOU DRIVING?";
+
+/* Class = "UITextField"; placeholder = "Registration Number*"; ObjectID = "Cfx-Of-P4H"; */
+"Cfx-Of-P4H.placeholder" = "Registration Number*";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "GZZ-mY-D7y"; */
+"GZZ-mY-D7y.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "Reg. No."; ObjectID = "Io0-AW-ayc"; */
+"Io0-AW-ayc.text" = "Reg. No.";
+
+/* Class = "UITextField"; placeholder = "First Name*"; ObjectID = "K7U-o4-jX0"; */
+"K7U-o4-jX0.placeholder" = "First Name*";
+
+/* Class = "UILabel"; text = "TELL US ABOUT YOURSELF"; ObjectID = "KfG-X8-wUU"; */
+"KfG-X8-wUU.text" = "TELL US ABOUT YOURSELF";
+
+/* Class = "UITextField"; placeholder = "Phone Number*"; ObjectID = "Lxx-uW-lbY"; */
+"Lxx-uW-lbY.placeholder" = "Phone Number*";
+
+/* Class = "UILabel"; text = "Reminder:"; ObjectID = "M8s-Wq-uId"; */
+"M8s-Wq-uId.text" = "Reminder:";
+
+/* Class = "UIButton"; normalTitle = "Select City"; ObjectID = "QhD-2T-Pxl"; */
+"QhD-2T-Pxl.normalTitle" = "Select City";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "Sr7-pW-TKW"; */
+"Sr7-pW-TKW.text" = "Brand";
+
+/* Class = "UILabel"; text = "Reg. No."; ObjectID = "TVU-Bn-ezZ"; */
+"TVU-Bn-ezZ.text" = "Reg. No.";
+
+/* Class = "UIButton"; normalTitle = "Select Brand*"; ObjectID = "UFr-uT-oeQ"; */
+"UFr-uT-oeQ.normalTitle" = "Select Brand*";
+
+/* Class = "UIButton"; normalTitle = "Select Model*"; ObjectID = "Vmi-aO-EUw"; */
+"Vmi-aO-EUw.normalTitle" = "Select Model*";
+
+/* Class = "UILabel"; text = "WELCOME"; ObjectID = "WW1-zd-9qF"; */
+"WW1-zd-9qF.text" = "WELCOME";
+
+/* Class = "UILabel"; text = "Please renew your car insurance before your registration expires."; ObjectID = "ZhU-3y-9GB"; */
+"ZhU-3y-9GB.text" = "Please renew your car insurance before your registration expires.";
+
+/* Class = "UITextField"; placeholder = "Last Name*"; ObjectID = "b69-GD-92K"; */
+"b69-GD-92K.placeholder" = "Last Name*";
+
+/* Class = "UILabel"; text = "Model"; ObjectID = "byr-e0-5PJ"; */
+"byr-e0-5PJ.text" = "Model";
+
+/* Class = "UIButton"; normalTitle = "Select City"; ObjectID = "fPv-oj-4fe"; */
+"fPv-oj-4fe.normalTitle" = "Select City";
+
+/* Class = "UILabel"; text = "Brand"; ObjectID = "fse-qp-ynt"; */
+"fse-qp-ynt.text" = "Brand";
+
+/* Class = "UITextField"; placeholder = "First Name*"; ObjectID = "iQM-iw-Hex"; */
+"iQM-iw-Hex.placeholder" = "First Name*";
+
+/* Class = "UILabel"; text = "By providing the following information we will be able to send you reminders on the expiry of your car registration and pre-populate your personal and vehicle information when you book a service or a test drive with this app.\n
+You can opt not to provide the information by clicking on skip below."; ObjectID = "idZ-yk-mBK"; */
+"idZ-yk-mBK.text" = "By providing the following information we will be able to send you reminders on the expiry of your car registration and pre-populate your personal and vehicle information when you book a service or a test drive with this app.\n
+You can opt not to provide the information by clicking on skip below.";
+
+/* Class = "UIButton"; normalTitle = "Select Model Year*"; ObjectID = "jTz-OM-YYh"; */
+"jTz-OM-YYh.normalTitle" = "Select Model Year*";
+
+/* Class = "UILabel"; text = "OTHER VEHICLE"; ObjectID = "jbJ-xl-BzO"; */
+"jbJ-xl-BzO.text" = "OTHER VEHICLE";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "khw-zt-jdH"; */
+"khw-zt-jdH.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "WHAT ARE YOU DRIVING?"; ObjectID = "lFX-TC-ldg"; */
+"lFX-TC-ldg.text" = "WHAT ARE YOU DRIVING?";
+
+/* Class = "UITextField"; placeholder = "Last Name*"; ObjectID = "nTW-4N-VW9"; */
+"nTW-4N-VW9.placeholder" = "Last Name*";
+
+/* Class = "UIButton"; normalTitle = "+971"; ObjectID = "nd7-cO-Nes"; */
+"nd7-cO-Nes.normalTitle" = "+971";
+
+/* Class = "UILabel"; text = "OTHER VEHICLE"; ObjectID = "pkl-ho-JTN"; */
+"pkl-ho-JTN.text" = "OTHER VEHICLE";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "r21-Sd-Swt"; */
+"r21-Sd-Swt.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "+971"; ObjectID = "sm8-bv-MbI"; */
+"sm8-bv-MbI.normalTitle" = "+971";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "tUb-51-N7d"; */
+"tUb-51-N7d.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "Your car registration is due on dd/mm/yyyy"; ObjectID = "tb6-Ru-w2U"; */
+"tb6-Ru-w2U.text" = "Your car registration is due on dd/mm/yyyy";
+
+/* Class = "UITextView"; text = "Al Tayer Motors was established in 1982 and represents major European and American automobile manufacturers such as Land Rover, Jaguar, Ford, Lincoln, Ferrari, Spyker and Maserati across the UAE. Al Tayer Motors’ portfolio also includes commercial vehicles - DAF trucks in the UAE.\n\nAs a company, we deal with a discerning customer who demands the best. From this stand point, we created a unique retail and service environment to meet our brands’ expected service standards.\n\nThe automobiles we sell provide immense pleasure and satisfaction to their owners and we add value by ensuring the joy is uninterrupted. Dedicated service, sales and parts centers in addition to world class personnel provide each customer with a unique ownership experience."; ObjectID = "vGd-kV-Q7b"; */
+"vGd-kV-Q7b.text" = "Premier Motors was established in 1982 and represents major European and American automobile manufacturers such as Land Rover, Jaguar, Ford, Lincoln, Ferrari, Spyker and Maserati across the UAE. Premier Motors’ portfolio also includes commercial vehicles - DAF trucks in the UAE.\n\nAs a company, we deal with a discerning customer who demands the best. From this stand point, we created a unique retail and service environment to meet our brands’ expected service standards.\n\nThe automobiles we sell provide immense pleasure and satisfaction to their owners and we add value by ensuring the joy is uninterrupted. Dedicated service, sales and parts centers in addition to world class personnel provide each customer with a unique ownership experience.";
+
+/* Class = "UILabel"; text = "Menu"; ObjectID = "wlp-zF-joq"; */
+"wlp-zF-joq.text" = "Menu";
+
+/* Class = "UIButton"; normalTitle = "Registration Expiry*"; ObjectID = "yaJ-MU-Vvs"; */
+"yaJ-MU-Vvs.normalTitle" = "Registration Expiry*";
+
+/* Class = "UIButton"; normalTitle = "Registration Expiry*"; ObjectID = "zbG-Cf-Nhu"; */
+"zbG-Cf-Nhu.normalTitle" = "Registration Expiry*";

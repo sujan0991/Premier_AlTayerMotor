@@ -1,0 +1,111 @@
+PODS:
+  - AFNetworking (3.0.0-beta.1):
+    - AFNetworking/NSURLSession (= 3.0.0-beta.1)
+    - AFNetworking/Reachability (= 3.0.0-beta.1)
+    - AFNetworking/Security (= 3.0.0-beta.1)
+    - AFNetworking/Serialization (= 3.0.0-beta.1)
+    - AFNetworking/UIKit (= 3.0.0-beta.1)
+  - AFNetworking/NSURLSession (3.0.0-beta.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.0-beta.1)
+  - AFNetworking/Security (3.0.0-beta.1)
+  - AFNetworking/Serialization (3.0.0-beta.1)
+  - AFNetworking/UIKit (3.0.0-beta.1):
+    - AFNetworking/NSURLSession
+  - Crashlytics (3.8.3):
+    - Fabric (~> 1.6.3)
+  - DGActivityIndicatorView (2.1)
+  - DZNWebViewController (3.2)
+  - Fabric (1.6.10)
+  - FRDLivelyButton (1.1.3)
+  - GoogleAnalytics (3.17.0)
+  - GoogleIDFASupport (3.14.0)
+  - GoogleMaps (1.13.2)
+  - GoogleTagManager (3.15.2):
+    - GoogleAnalytics (= 3.17.0)
+  - iCarousel (1.8.3)
+  - IQActionSheetPickerView (1.0.4)
+  - LinqToObjectiveC (2.1.0)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - MMDrawerController (0.5.7):
+    - MMDrawerController/Core (= 0.5.7)
+    - MMDrawerController/MMDrawerBarButtonItem (= 0.5.7)
+    - MMDrawerController/MMDrawerVisualStates (= 0.5.7)
+    - MMDrawerController/Subclass (= 0.5.7)
+  - MMDrawerController/Core (0.5.7)
+  - MMDrawerController/MMDrawerBarButtonItem (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/MMDrawerVisualStates (0.5.7):
+    - MMDrawerController/Core
+  - MMDrawerController/Subclass (0.5.7):
+    - MMDrawerController/Core
+  - NMRangeSlider (1.2.1)
+  - NSString+Color (1.1.4)
+  - PWParallaxScrollView (1.1.5)
+  - RequestUtils (1.1.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - TPKeyboardAvoiding (1.3)
+  - UICKeyChainStore (2.1.0)
+  - UITextView+Placeholder (1.2.0)
+  - ViewUtils (1.1.2)
+
+DEPENDENCIES:
+  - AFNetworking (= 3.0.0-beta.1)
+  - Crashlytics
+  - DGActivityIndicatorView
+  - DZNWebViewController
+  - Fabric
+  - FRDLivelyButton (~> 1.1.3)
+  - GoogleIDFASupport
+  - GoogleMaps (~> 1.11)
+  - GoogleTagManager (~> 3.15)
+  - iCarousel (~> 1.8)
+  - IQActionSheetPickerView (~> 1.0)
+  - LinqToObjectiveC (~> 2.0)
+  - MagicalRecord
+  - MMDrawerController (~> 0.5.7)
+  - NMRangeSlider (~> 1.2)
+  - NSString+Color
+  - PWParallaxScrollView (~> 1.1.5)
+  - RequestUtils (~> 1.1)
+  - SDWebImage (~> 3.7)
+  - TPKeyboardAvoiding (~> 1.2)
+  - UICKeyChainStore
+  - UITextView+Placeholder
+  - ViewUtils (~> 1.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 1100906802d9479aa0949e8e2cbc1d4e6beba327
+  Crashlytics: 2b6dbe138a42395577cfa73dfa1aa7248cadf39e
+  DGActivityIndicatorView: 1942ae657a8d247c035f229422b2d15a8adbe5b6
+  DZNWebViewController: 8e927a5de637fe0c4104c001d5cccd4fa5621e50
+  Fabric: c73f371ee543e3f0b80608f2674750e4910d1669
+  FRDLivelyButton: d67f7ecb801ac84427fca1ea832a63e972b72478
+  GoogleAnalytics: f42cc53a87a51fe94334821868d9c8481ff47a7b
+  GoogleIDFASupport: aaf8c10bd429abb1c15349d5252244f5eda8ead1
+  GoogleMaps: b20a103ff307f58392e603cf142e59d7e30374c1
+  GoogleTagManager: 43b61f634e42e4b9566ab41e9fd6aa0f6adf47a5
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  IQActionSheetPickerView: 38ac311461f0843f58cba28b917c906734edc02f
+  LinqToObjectiveC: f0e40c137a458b6b9725c4c7b6a575c0c72e3aec
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  MMDrawerController: 7a4cf8e25596bf2434e03ce50d22a8608ddee6a1
+  NMRangeSlider: 317ded652431eb90501c8421d9cddc3930d891e6
+  NSString+Color: ea9e33d498d634adf56766c606c9128822094473
+  PWParallaxScrollView: 0679735540d86d741d89efa85688f8875aed3037
+  RequestUtils: 0f04f89abca3936c6566e2f4c3ce5d252036bc89
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  TPKeyboardAvoiding: a5138f318c06fb3e151f886e18ce4a72695d9cbe
+  UICKeyChainStore: f1cbd42216a113f0165de1e733e62905b8823432
+  UITextView+Placeholder: 77680995fcdd07c3f52ec92fe1150874a2ac89ff
+  ViewUtils: 68e42c708a4b3912e39691cef5080282dc5013fb
+
+PODFILE CHECKSUM: 12fc28d774aedba31fd328e1e5f04ba10f3ff08e
+
+COCOAPODS: 1.1.1

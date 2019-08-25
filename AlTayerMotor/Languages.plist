@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TEXT TAB CROSSOVERS</key>
+	<dict>
+		<key>en</key>
+		<string>CROSSOVER</string>
+		<key>ar</key>
+		<string>سيارات الكروس أوفر</string>
+	</dict>
+	<key>MENU PROFILE</key>
+	<dict>
+		<key>en</key>
+		<string>Profile</string>
+		<key>ar</key>
+		<string>الملف الشخصي</string>
+	</dict>
+	<key>TEXT OTHER MODEL</key>
+	<dict>
+		<key>en</key>
+		<string>Other model</string>
+		<key>ar</key>
+		<string>نموذج آخر</string>
+	</dict>
+	<key>MENU NEW CARS</key>
+	<dict>
+		<key>en</key>
+		<string>New Cars</string>
+		<key>ar</key>
+		<string>سيارات جديدة</string>
+	</dict>
+	<key>MENU ROADSIDE ASSISTANCE</key>
+	<dict>
+		<key>en</key>
+		<string>Roadside Assistance</string>
+		<key>ar</key>
+		<string>المساعدة على الطريق</string>
+	</dict>
+	<key>MENU AVAILABLE OFFERS</key>
+	<dict>
+		<key>en</key>
+		<string>Available Offers</string>
+		<key>ar</key>
+		<string>العروض المتاحة</string>
+	</dict>
+	<key>MENU SPECIAL OFFERS</key>
+	<dict>
+		<key>en</key>
+		<string>Special Offers</string>
+		<key>ar</key>
+		<string>العروض المتوفرة/ المتاحة</string>
+	</dict>
+	<key>MENU SEND AN ENQUIRY</key>
+	<dict>
+		<key>en</key>
+		<string>Send an Enquiry</string>
+		<key>ar</key>
+		<string>أرسل للاستفسار</string>
+	</dict>
+	<key>MENU CALL 800 MOTORS</key>
+	<dict>
+		<key>en</key>
+		<string>Call 800 MOTORS</string>
+		<key>ar</key>
+		<string>800 MOTORS اتصل على </string>
+	</dict>
+	<key>MENU ABOUT</key>
+	<dict>
+		<key>en</key>
+		<string>About Premier Motors</string>
+		<key>ar</key>
+		<string>حول بريمير موتورز</string>
+	</dict>
+	<key>TAB SERVICES</key>
+	<dict>
+		<key>en</key>
+		<string>Service</string>
+		<key>ar</key>
+		<string>خدمات</string>
+	</dict>
+	<key>TAB TEST DRIVE</key>
+	<dict>
+		<key>en</key>
+		<string>Test Drive</string>
+		<key>ar</key>
+		<string>تجربة قيادة</string>
+	</dict>
+	<key>TAB LOCATIONS</key>
+	<dict>
+		<key>en</key>
+		<string>Locations</string>
+		<key>ar</key>
+		<string>المواقع</string>
+	</dict>
+	<key>TAB INSURANCE</key>
+	<dict>
+		<key>en</key>
+		<string>Insurance</string>
+		<key>ar</key>
+		<string>التأمين</string>
+	</dict>
+	<key>TAB PRE-OWNED</key>
+	<dict>
+		<key>en</key>
+		<string>Pre-Owned</string>
+		<key>ar</key>
+		<string>السيارات المستعملة</string>
+	</dict>
+	<key>TITLE LATEST OFFERS</key>
+	<dict>
+		<key>New item</key>
+		<string></string>
+		<key>en</key>
+		<string>Our Latest Offers</string>
+		<key>ar</key>
+		<string>آخر العروض</string>
+	</dict>
+	<key>TITLE PRE-OWNED</key>
+	<dict>
+		<key>en</key>
+		<string>Pre-Owned</string>
+		<key>ar</key>
+		<string>أحدث العروض</string>
+	</dict>
+	<key>TEXT EXPLORER OUR PRE-OWNED VEHICLES</key>
+	<dict>
+		<key>en</key>
+		<string>EXPLORE OUR PRE-OWNED VEHICLES</string>
+		<key>ar</key>
+		<string>اكتشف سياراتنا المستعملة</string>
+	</dict>
+	<key>TEXT FILTER</key>
+	<dict>
+		<key>en</key>
+		<string>FILTER</string>
+		<key>ar</key>
+		<string>التصنيف</string>
+	</dict>
+	<key>TEXT TITLE FILTER</key>
+	<dict>
+		<key>en</key>
+		<string>Filter</string>
+		<key>ar</key>
+		<string>اختيار</string>
+	</dict>
+	<key>TEXT ALL VEHICLES</key>
+	<dict>
+		<key>en</key>
+		<string>ALL VEHICLES</string>
+		<key>ar</key>
+		<string>جميع السيارات</string>
+	</dict>
+	<key>TEXT ALL OFFERS</key>
+	<dict>
+		<key>en</key>
+		<string>ALL OFFERS</string>
+		<key>ar</key>
+		<string>جميع العروض</string>
+	</dict>
+	<key>TEXT TITLE PRICE</key>
+	<dict>
+		<key>en</key>
+		<string>PRICE</string>
+		<key>ar</key>
+		<string>السعر</string>
+	</dict>
+	<key>TEXT TITLE MILEAGE</key>
+	<dict>
+		<key>en</key>
+		<string>MILEAGE</string>
+		<key>ar</key>
+		<string>عدد الكيلومترات</string>
+	</dict>
+	<key>TEXT TITLE YEAR</key>
+	<dict>
+		<key>en</key>
+		<string>YEAR</string>
+		<key>ar</key>
+		<string>العام</string>
+	</dict>
+	<key>TEXT TITLE VEHICLE</key>
+	<dict>
+		<key>en</key>
+		<string>VEHICLE</string>
+		<key>ar</key>
+		<string>نوع السيارة</string>
+	</dict>
+	<key>TEXT TAB ALL</key>
+	<dict>
+		<key>en</key>
+		<string>ALL</string>
+		<key>ar</key>
+		<string>جميع</string>
+	</dict>
+	<key>TEXT TAB SEDAN</key>
+	<dict>
+		<key>en</key>
+		<string>SEDAN</string>
+		<key>ar</key>
+		<string>السيدان</string>
+	</dict>
+	<key>TEXT TAB SUV</key>
+	<dict>
+		<key>en</key>
+		<string>SUV</string>
+		<key>ar</key>
+		<string>سيارات
+الدفع الرباعي</string>
+	</dict>
+	<key>TEXT TAB TRUCKS</key>
+	<dict>
+		<key>en</key>
+		<string>TRUCKS</string>
+		<key>ar</key>
+		<string>الشاحنات</string>
+	</dict>
+	<key>TEXT TAB OTHERS</key>
+	<dict>
+		<key>en</key>
+		<string>OTHERS</string>
+		<key>ar</key>
+		<string>غيرها</string>
+	</dict>
+	<key>TEXT TITLE VEHICLE DETAILS</key>
+	<dict>
+		<key>en</key>
+		<string>Vehicle Details</string>
+		<key>ar</key>
+		<string>تفاصيل السيارة</string>
+	</dict>
+	<key>TEXT SELLING AT</key>
+	<dict>
+		<key>en</key>
+		<string>Selling at</string>
+		<key>ar</key>
+		<string>السعر</string>
+	</dict>
+	<key>TEXT AED</key>
+	<dict>
+		<key>en</key>
+		<string>AED</string>
+		<key>ar</key>
+		<string>درهم إماراتي</string>
+	</dict>
+	<key>TEXT MODEL YEAR</key>
+	<dict>
+		<key>en</key>
+		<string>MODEL YEAR</string>
+		<key>ar</key>
+		<string>الــعــام</string>
+	</dict>
+	<key>TEXT SEATS</key>
+	<dict>
+		<key>en</key>
+		<string>SEATS</string>
+		<key>ar</key>
+		<string>عدد المقاعد</string>
+	</dict>
+	<key>TEXT ENGINE</key>
+	<dict>
+		<key>en</key>
+		<string>ENGINE</string>
+		<key>ar</key>
+		<string>المـحــرك</string>
+	</dict>
+	<key>TEXT MILEAGE</key>
+	<dict>
+		<key>en</key>
+		<string>MILEAGE</string>
+		<key>ar</key>
+		<string>اجتازتها</string>
+	</dict>
+	<key>TEXT FUEL TYPE</key>
+	<dict>
+		<key>en</key>
+		<string>FUEL TYPE</string>
+		<key>ar</key>
+		<string>نوع الزيت</string>
+	</dict>
+	<key>TEXT TITLE BOOK A TEST DRIVE</key>
+	<dict>
+		<key>en</key>
+		<string>Book a Test Drive</string>
+		<key>ar</key>
+		<string>حدد موعد لتجربة القيادة</string>
+	</dict>
+	<key>TEXT WHAT WOULD YOU LIKE TO TEST DRIVE</key>
+	<dict>
+		<key>en</key>
+		<string>WHAT WOULD YOU LIKE 
+TO TEST DRIVE?</string>
+		<key>ar</key>
+		<string>ما الذي تود اختبار قيادته؟</string>
+	</dict>
+	<key>TEXT TELL US ABOUT YOURSELF</key>
+	<dict>
+		<key>en</key>
+		<string>TELL US ABOUT YOURSELF</string>
+		<key>ar</key>
+		<string>المعلومات الشخصية</string>
+	</dict>
+	<key>TEXT PLACEHOLDER SELECT CITY</key>
+	<dict>
+		<key>en</key>
+		<string>Select City</string>
+		<key>ar</key>
+		<string>اختر المدينة</string>
+	</dict>
+	<key>TEXT PLACEHOLDER SELECT BRAND</key>
+	<dict>
+		<key>en</key>
+		<string>Select Brand</string>
+		<key>ar</key>
+		<string>اختر الماركة</string>
+	</dict>
+	<key>TEXT PLACEHOLDER SELECT BRAND STAR</key>
+	<dict>
+		<key>en</key>
+		<string>Select Brand*</string>
+		<key>ar</key>
+		<string>اختر الماركة*</string>
+	</dict>
+	<key>TEXT PLACEHOLDER SELECT MODEL</key>
+	<dict>
+		<key>en</key>
+		<string>Select Model</string>
+		<key>ar</key>
+		<string>تحديد الموديل </string>
+	</dict>
+	<key>TEXT PLACEHOLDER SELECT MODEL STAR</key>
+	<dict>
+		<key>en</key>
+		<string>Select Model*</string>
+		<key>ar</key>
+		<string>اختر الموديل*</string>
+	</dict>
+	<key>TEXT PLACEHOLDER SELECT MODEL YEAR</key>
+	<dict>
+		<key>en</key>
+		<string>Select Model Year</string>
+		<key>ar</key>
+		<string>سنة التصنيع</string>
+	</dict>
+	<key>TEXT PLACEHOLDER SELECT MODEL YEAR STAR</key>
+	<dict>
+		<key>en</key>
+		<string>Select Model Year*</string>
+		<key>ar</key>
+		<string>سنة التصنيع*</string>
+	</dict>
+	<key>TEXT PLACEHOLDER SELECT BRANCH</key>
+	<dict>
+		<key>en</key>
+		<string>Select Branch</string>
+		<key>ar</key>
+		<string>اختر الفرع</string>
+	</dict>
+	<key>TEXT SELECT DATE OF BIRTH</key>
+	<dict>
+		<key>en</key>
+		<string>Date of Birth</string>
+		<key>ar</key>
+		<string>تاريخ الميلاد</string>
+	</dict>
+	<key>TEXT SELECT DATE OF BIRTH STAR</key>
+	<dict>
+		<key>en</key>
+		<string>Date of Birth*</string>
+		<key>ar</key>
+		<string>تاريخ الميلاد*</string>
+	</dict>
+	<key>TEXT SELECT DRIVING EXPERIENCE</key>
+	<dict>
+		<key>en</key>
+		<string>Driving Experience</string>
+		<key>ar</key>
+		<string>عدد سنوات القيادة</string>
+	</dict>
+	<key>TEXT SELECT PREFERRED CALL TIME</key>
+	<dict>
+		<key>en</key>
+		<string>When is your preferred call time?</string>
+		<key>ar</key>
+		<string>ما هو الوقت المناسب للاتصال بك؟</string>
+	</dict>
+	<key>TEXT PLACEHOLDER REGISTRATION NUMBER</key>
+	<dict>
+		<key>en</key>
+		<string>Registration Number*</string>
+		<key>ar</key>
+		<string>رقم التسجيل*</string>
+	</dict>
+	<key>TEXT PLACEHOLDER MILEAGE KM</key>
+	<dict>
+		<key>en</key>
+		<string>Mileage (Km)*</string>
+		<key>ar</key>
+		<string>الكيلومترات التي اجتازتها السيارة*</string>
+	</dict>
+	<key>TEXT PLACEHOLDER FIRST NAME</key>
+	<dict>
+		<key>en</key>
+		<string>First Name*</string>
+		<key>ar</key>
+		<string>الاسم*</string>
+	</dict>
+	<key>TEXT PLACEHOLDER LAST NAME</key>
+	<dict>
+		<key>en</key>
+		<string>Last Name*</string>
+		<key>ar</key>
+		<string>الشهرة*</string>
+	</dict>
+	<key>TEXT PLACEHOLDER PHONE NUMBER</key>
+	<dict>
+		<key>en</key>
+		<string>Phone Number*</string>
+		<key>ar</key>
+		<string>رقم الهاتف*</string>
+	</dict>
+	<key>TEXT PLACEHOLDER EMAIL</key>
+	<dict>
+		<key>en</key>
+		<string>Email*</string>
+		<key>ar</key>
+		<string>البريد الإلكتروني*</string>
+	</dict>
+	<key>TEXT TITLE WHICH VEHICLE IS IN NEED OF SERVICE</key>
+	<dict>
+		<key>en</key>
+		<string>WHICH VEHICLE IS IN NEED OF SERVICE?</string>
+		<key>ar</key>
+		<string>ما هي  السيارة  التي تحتاج الى صيانة ؟</string>
+	</dict>
+	<key>TEXT TITLE SERVICE</key>
+	<dict>
+		<key>en</key>
+		<string>Service</string>
+		<key>ar</key>
+		<string>الصيانة</string>
+	</dict>
+	<key>TEXT TITLE SERVICES</key>
+	<dict>
+		<key>en</key>
+		<string>Services</string>
+		<key>ar</key>
+		<string>الصيانة</string>
+	</dict>
+	<key>TEXT TITLE BRANDS</key>
+	<dict>
+		<key>en</key>
+		<string>EXPLORE OUR PRE-OWNED VEHICLES</string>
+		<key>ar</key>
+		<string>اكتشف سياراتنا المستعملة</string>
+	</dict>
+	<key>TEXT WARNING</key>
+	<dict>
+		<key>en</key>
+		<string>Warning</string>
+		<key>ar</key>
+		<string>تحذير</string>
+	</dict>
+	<key>TEXT ALL DATA YOU INPUT WILL BE CLEAR</key>
+	<dict>
+		<key>en</key>
+		<string>All data you input will be clear</string>
+		<key>ar</key>
+		<string>جميع البيانات التي تدخلها سوف تكون واضحة</string>
+	</dict>
+	<key>TEXT CANCEL</key>
+	<dict>
+		<key>en</key>
+		<string>CANCEL</string>
+		<key>ar</key>
+		<string>إلغاء</string>
+	</dict>
+	<key>TEXT CLEAR</key>
+	<dict>
+		<key>en</key>
+		<string>CLEAR</string>
+		<key>ar</key>
+		<string>حذف</string>
+	</dict>
+	<key>TEXT CANCEL CAPITALIZE</key>
+	<dict>
+		<key>en</key>
+		<string>Cancel</string>
+		<key>ar</key>
+		<string>إلغاء</string>
+	</dict>
+	<key>TEXT CALL</key>
+	<dict>
+		<key>en</key>
+		<string>Call</string>
+		<key>ar</key>
+		<string>مكالمة</string>
+	</dict>
+	<key>TEXT GET DIRECTION</key>
+	<dict>
+		<key>en</key>
+		<string>Get Directions</string>
+		<key>ar</key>
+		<string>الحصول على التوجيه</string>
+	</dict>
+	<key>TEXT SUBMIT</key>
+	<dict>
+		<key>en</key>
+		<string>SUBMIT</string>
+		<key>ar</key>
+		<string>تقديم</string>
+	</dict>
+	<key>TEXT DESELECT</key>
+	<dict>
+		<key>en</key>
+		<string>Deselect</string>
+		<key>ar</key>
+		<string>إلغاء</string>
+	</dict>
+	<key>TEXT DELETE</key>
+	<dict>
+		<key>en</key>
+		<string>Delete</string>
+		<key>ar</key>
+		<string>مسح</string>
+	</dict>
+	<key>TEXT ARE YOU SURE YOU WANT TO DELETE THIS CAR</key>
+	<dict>
+		<key>en</key>
+		<string>Are you sure you want to delete this car?</string>
+		<key>ar</key>
+		<string>تأكيد مسح هذه السيارة؟</string>
+	</dict>
+	<key>TEXT WE HAVE REGISTERED YOUR SERVICE REQUEST</key>
+	<dict>
+		<key>en</key>
+		<string>HAVE REGISTERED YOUR SERVICE REQUEST</string>
+		<key>ar</key>
+		<string>لقد سجلنا طلبك لصيانة السيارة</string>
+	</dict>
+	<key>TEXT DESCRIPTION BOOKING TEST COMPLETION</key>
+	<dict>
+		<key>en</key>
+		<string>Thank you for submitting your information. A sales advisor will get in touch with you at the earliest. Looking forward to meeting you.</string>
+		<key>ar</key>
+		<string>لقد تمّ استلام طلبك وسوف نتواصل معك في أقرب وقت</string>
+	</dict>
+	<key>TEXT TITLE RENEW INSURANCE</key>
+	<dict>
+		<key>en</key>
+		<string>Renew Insurance</string>
+		<key>ar</key>
+		<string>تجديد التأمين</string>
+	</dict>
+	<key>TEXT RENEW INSURANCE HEADLINE</key>
+	<dict>
+		<key>en</key>
+		<string>Please provide the documents
+below so we can help you
+renew your insurance</string>
+		<key>ar</key>
+		<string> يرجى تقديم المستندات المطلوبة كي نساعدك في تجديد التامين على سيالرتك</string>
+	</dict>
+	<key>TEXT TITLE SCAN VEHICLE</key>
+	<dict>
+		<key>en</key>
+		<string>SCAN YOUR VEHICLE REGISTRATION</string>
+		<key>ar</key>
+		<string>قم بمسح ضوئي لرقم تسجيل سيارتك</string>
+	</dict>
+	<key>TEXT TITLE FIND LOCATION</key>
+	<dict>
+		<key>en</key>
+		<string>Find a Location</string>
+		<key>ar</key>
+		<string>ابحث عن موقع</string>
+	</dict>
+	<key>TEXT NEARBY</key>
+	<dict>
+		<key>en</key>
+		<string>Nearby</string>
+		<key>ar</key>
+		<string>بالقرب من</string>
+	</dict>
+	<key>TEXT TITLE AL TAYER GROUP</key>
+	<dict>
+		<key>en</key>
+		<string>About Premier Motors</string>
+		<key>ar</key>
+		<string>حول بريمير موتورز</string>
+	</dict>
+	<key>TEXT AL TAYER GROUP</key>
+	<dict>
+		<key>en</key>
+		<string>Al Tayer Group</string>
+		<key>ar</key>
+		<string>مجموعة الطاير</string>
+	</dict>
+	<key>TEXT ABOUT CONTENT</key>
+	<dict>
+		<key>en</key>
+		<string>Premier Motors is the official dealer for Land Rover, Jaguar, Ford, Lincoln, Ferrari and Maserati cars in the emirate of Abu Dhabi. The company’s automotive portfolio also includes Ford Trucks.
+
+Premier Motors’ showrooms are located at Khalidiya and Mussafah in Abu Dhabi and Senayya in Al Ain, while service and parts centres are in Mussafah and Senayya in Al Ain.
+
+</string>
+		<key>ar</key>
+		<string>تعد &quot;بريمير موتورز&quot; الوكيل الرسمي في إمارة أبوظبي لسيارات &quot;لاند روﭬر&quot;، و&quot;جاكوار&quot;، و&quot;فورد&quot;، و&quot;لينكولن&quot;، و&quot;فيراري&quot;، و&quot;مازيراتي&quot;، و&quot;سبايكر&quot;، فضلاً عن شاحنات &quot;فورد&quot;
+
+تقع صالات عرض &quot;بريمير موتورز&quot; في الخالدية والمصفح بمدينة أبوظبي، والصناعية بمدينة العين، بالإضافة الى مراكز الخدمة وقطع الغيار في المصفح والصناعية في العين
+
+</string>
+	</dict>
+	<key>TEXT STARTING AT</key>
+	<dict>
+		<key>en</key>
+		<string>Starting at</string>
+		<key>ar</key>
+		<string>يبدأ من</string>
+	</dict>
+	<key>TEXT OK</key>
+	<dict>
+		<key>en</key>
+		<string>OK</string>
+		<key>ar</key>
+		<string>متابعة</string>
+	</dict>
+	<key>TEXT VEHICLE OFFERS</key>
+	<dict>
+		<key>en</key>
+		<string>VEHICLE OFFERS</string>
+		<key>ar</key>
+		<string>العروض على السيارات</string>
+	</dict>
+	<key>TEXT ADDITIONAL MESSAGE STAR</key>
+	<dict>
+		<key>en</key>
+		<string>Additional Message*</string>
+		<key>ar</key>
+		<string>رسالة إضافية *</string>
+	</dict>
+	<key>TEXT MESSAGE STAR</key>
+	<dict>
+		<key>en</key>
+		<string>Message*</string>
+		<key>ar</key>
+		<string>الرسالة*</string>
+	</dict>
+	<key>TEXT TITLE HOW CAN WE HELP YOU</key>
+	<dict>
+		<key>en</key>
+		<string>HOW CAN WE HELP YOU?</string>
+		<key>ar</key>
+		<string>كيف يمكننا مساعدتك؟</string>
+	</dict>
+	<key>TEXT ENQUIRY MESSAGE PLACEHOLDER</key>
+	<dict>
+		<key>en</key>
+		<string>(You can mention the model of a query on the stock / colour availability, etc)</string>
+		<key>ar</key>
+		<string>(يمكنك أن تذكر في الاستفسار عن الموديل عن توافره ولونه، إلخ)</string>
+	</dict>
+	<key>TEXT SELECT ENQUIRY</key>
+	<dict>
+		<key>en</key>
+		<string>Select Enquiry</string>
+		<key>ar</key>
+		<string>حدد الاستفسار</string>
+	</dict>
+	<key>TEXT SELECT TYPE</key>
+	<dict>
+		<key>en</key>
+		<string>Select Type</string>
+		<key>ar</key>
+		<string>حدد نوع</string>
+	</dict>
+	<key>TEXT SEND REQUEST NOT SUCCESSFULLY</key>
+	<dict>
+		<key>en</key>
+		<string>Sent request not successfully. Please try again</string>
+		<key>ar</key>
+		<string>طلب أرسلت لم تكن ناجحة. حاول مرة اخرى</string>
+	</dict>
+	<key>TEXT WELCOME</key>
+	<dict>
+		<key>en</key>
+		<string>WELCOME</string>
+		<key>ar</key>
+		<string>مرحباً</string>
+	</dict>
+	<key>TEXT WELCOME DESCRIPTION</key>
+	<dict>
+		<key>en</key>
+		<string>By providing the following information we will be able to send you reminders on the expiry of your car registration and pre-populate your personal and vehicle information when you book a service or a test drive with this app.
+
+
+You can opt not to provide the information by clicking skip above.</string>
+		<key>ar</key>
+		<string>من  خلال تسجيلك البيانات المطلوبة أدناه , سنتمكن  من تذكيرك بموعد انتهاء صلاحية تسجيل سيارتك. وبذلك ستبقى البيانات متوفرة لاستخدامك  عند كل حجز صيانة لمركبتك .
+يمكنك أن تختار عدم تقديم البيانات عبر الضغط على زر التخطي .</string>
+	</dict>
+	<key>TEXT WHAT ARE YOU DRIVING?</key>
+	<dict>
+		<key>en</key>
+		<string>WHAT ARE YOU DRIVING?</string>
+		<key>ar</key>
+		<string>السيارة التي تقودها</string>
+	</dict>
+	<key>TEXT REGISTRATION EXPIRY STAR</key>
+	<dict>
+		<key>en</key>
+		<string>Registration Expiry*</string>
+		<key>ar</key>
+		<string>تاريخ انتهاء التسجيل*</string>
+	</dict>
+	<key>TEXT ADD ANOTHER VEHICLE</key>
+	<dict>
+		<key>en</key>
+		<string>ADD ANOTHER VEHICLE</string>
+		<key>ar</key>
+		<string>إضافة سيارة أخرى</string>
+	</dict>
+	<key>TEXT OTHER VEHICLE</key>
+	<dict>
+		<key>en</key>
+		<string>OTHER VEHICLE</string>
+		<key>ar</key>
+		<string>سيارة أخرى</string>
+	</dict>
+	<key>TEXT CONTINUE</key>
+	<dict>
+		<key>en</key>
+		<string>CONTINUE</string>
+		<key>ar</key>
+		<string>متابعة</string>
+	</dict>
+	<key>TEXT TITLE PROFILE</key>
+	<dict>
+		<key>en</key>
+		<string>My Profile</string>
+		<key>ar</key>
+		<string>الصفحة الشخصية</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE A BRAND</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose a brand</string>
+		<key>ar</key>
+		<string>الرجاء اختيار العلامة التجارية</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE A MODEL</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose a model</string>
+		<key>ar</key>
+		<string>الرجاء اختيار نموذج</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE A YEAR</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose a year</string>
+		<key>ar</key>
+		<string>الرجاء اختيار السنة</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT REGISTRATION NUMBER</key>
+	<dict>
+		<key>en</key>
+		<string>Please input registration number</string>
+		<key>ar</key>
+		<string>يرجى تسجيل عدد المدخلات</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT REGISTRATION EXPIRY</key>
+	<dict>
+		<key>en</key>
+		<string>Please input registration expiry</string>
+		<key>ar</key>
+		<string>يرجى انتهاء تسجيل المدخلات</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT MILEAGE</key>
+	<dict>
+		<key>en</key>
+		<string>Please input mileage</string>
+		<key>ar</key>
+		<string>يرجى إدخال الأميال</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT OTHER BRAND</key>
+	<dict>
+		<key>en</key>
+		<string>Please input other brand</string>
+		<key>ar</key>
+		<string>الرجاء إدخال نوع آخر</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT FIRST NAME</key>
+	<dict>
+		<key>en</key>
+		<string>Please input first name</string>
+		<key>ar</key>
+		<string>يرجى ادخال الاسم الاول</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT LAST NAME</key>
+	<dict>
+		<key>en</key>
+		<string>Please input last name</string>
+		<key>ar</key>
+		<string>يرجى ادخال الاسم الاخير</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT PHONE NUMBER</key>
+	<dict>
+		<key>en</key>
+		<string>Please input phone number</string>
+		<key>ar</key>
+		<string>يرجى إدخال رقم الهاتف</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT EMAIL</key>
+	<dict>
+		<key>en</key>
+		<string>Please input email</string>
+		<key>ar</key>
+		<string>يرجى إدخال البريد الإلكتروني</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE YOUR BIRTHDAY</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose your birthday</string>
+		<key>ar</key>
+		<string>الرجاء اختيار تاريخ ميلادك</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE A CITY</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose a city</string>
+		<key>ar</key>
+		<string>الرجاء اختيار مدينة</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE A LOCATION</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose a location</string>
+		<key>ar</key>
+		<string>يرجى اختيار المكان</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE AN ENQUIRY</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose an enquiry</string>
+		<key>ar</key>
+		<string>الرجاء اختيار لجنة تحقيق</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE A TYPE</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose a type</string>
+		<key>ar</key>
+		<string>الرجاء اختيار نوع</string>
+	</dict>
+	<key>TEXT TITLE PLEASE INPUT MESSAGE</key>
+	<dict>
+		<key>en</key>
+		<string>Please input message</string>
+		<key>ar</key>
+		<string>يرجى ادخال الرسالة</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE DRIVING EXPERIENCE</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose driving experience</string>
+		<key>ar</key>
+		<string>الرجاء اختيار تجربة القيادة</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE PREFERRED CALL TIME</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose your preferred call time</string>
+		<key>ar</key>
+		<string>الرجاء اختيار الوقت المناسب للاتصال ب</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE FRONT CARD</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose front card</string>
+		<key>ar</key>
+		<string>الرجاء اختيار بطاقة الأمامية</string>
+	</dict>
+	<key>TEXT TITLE PLEASE CHOOSE BACK CARD</key>
+	<dict>
+		<key>en</key>
+		<string>Please choose back card</string>
+		<key>ar</key>
+		<string>الرجاء اختيار بطاقة العودة</string>
+	</dict>
+	<key>TEXT TITLE EMAIL IS INVALID</key>
+	<dict>
+		<key>en</key>
+		<string>Email is invalid</string>
+		<key>ar</key>
+		<string>البريد الإلكتروني غير صالح</string>
+	</dict>
+	<key>TEXT TITLE PHONE NUMBER IS INVALID</key>
+	<dict>
+		<key>en</key>
+		<string>Please enter a valid phone number</string>
+		<key>ar</key>
+		<string>الرجاء إدخال رقم هاتف صالح</string>
+	</dict>
+	<key>TEXT REMINDER</key>
+	<dict>
+		<key>en</key>
+		<string>REMINDER</string>
+		<key>ar</key>
+		<string>تذكير</string>
+	</dict>
+	<key>TEXT CLOSE</key>
+	<dict>
+		<key>en</key>
+		<string>CLOSE</string>
+		<key>ar</key>
+		<string>أغلق</string>
+	</dict>
+	<key>TEXT REMINDER CONTENT ONE</key>
+	<dict>
+		<key>en</key>
+		<string>Your car registration is due on
+</string>
+		<key>ar</key>
+		<string>تنتهي صلاحية تسجيل سيارتك في
+</string>
+	</dict>
+	<key>TEXT REMINDER CONTENT TWO</key>
+	<dict>
+		<key>en</key>
+		<string>Please renew your car insurance before your registration expires.</string>
+		<key>ar</key>
+		<string> الرجاء تجديد التأمين قبل انتهاء صلاحية التسجيل.</string>
+	</dict>
+	<key>TEXT GOT IT</key>
+	<dict>
+		<key>en</key>
+		<string>GOT IT</string>
+		<key>ar</key>
+		<string>الأمر واضح</string>
+	</dict>
+	<key>TEXT HOW WOULD YOU LIKE TO SELECT PICTURE</key>
+	<dict>
+		<key>en</key>
+		<string>How would you like to select picture?</string>
+		<key>ar</key>
+		<string>كيف تريد تحميل صورة</string>
+	</dict>
+	<key>TEXT ADD FROM GALLERY</key>
+	<dict>
+		<key>en</key>
+		<string>Add from gallery</string>
+		<key>ar</key>
+		<string>تحميل من معرض الصور</string>
+	</dict>
+	<key>TEXT A PHOTO</key>
+	<dict>
+		<key>en</key>
+		<string>Take a photo</string>
+		<key>ar</key>
+		<string>التقاط صورة</string>
+	</dict>
+	<key>TEXT DO YOU WANT TO DELETE THIS IMAGE</key>
+	<dict>
+		<key>en</key>
+		<string>Do you want to delete this image?</string>
+		<key>ar</key>
+		<string>هل تريد حذف هذه الصورة؟</string>
+	</dict>
+	<key>TEXT DO YOU WANT TO CLEAR THIS FORM</key>
+	<dict>
+		<key>en</key>
+		<string>Do you want to clear this form?</string>
+		<key>ar</key>
+		<string>هل تريد مسح هذا النموذج؟</string>
+	</dict>
+	<key>TEXT SEND REQUEST NOT SUCCESSFULLY TRY AGAIN</key>
+	<dict>
+		<key>en</key>
+		<string>Sent request not successfully. Please try again</string>
+		<key>ar</key>
+		<string>طلب المرسلة لم تكن ناجحة. حاول مرة اخرى</string>
+	</dict>
+	<key>TEXT NEW CARS TITLE</key>
+	<dict>
+		<key>en</key>
+		<string>Book a test drive or see more information about our new cars.</string>
+		<key>ar</key>
+		<string>احجز تجربة قيادة  أو تعرّف على المزيد من المعلومات حول سياراتنا الجديدة عبر موقعنا الإلكتروني.</string>
+	</dict>
+	<key>TEXT ROADSIDE TITLE</key>
+	<dict>
+		<key>en</key>
+		<string>Operators are available round the clock with a service that covers emergencies of various kinds; available throughout the manufacturer’s warranty period. T&amp;Cs apply.</string>
+		<key>ar</key>
+		<string>تتوفّر خدمة العملاء على مدار الساعة وتقدّم صيانة للحالات الطارئة أياً كانت، وهي صالحة خلال فترة كفالة السيارة. تطبّق الشروط والأحكام.</string>
+	</dict>
+	<key>TEXT YEARS OLD</key>
+	<dict>
+		<key>en</key>
+		<string>Years Old</string>
+		<key>ar</key>
+		<string>سنوات</string>
+	</dict>
+	<key>TEXT EXPIRY</key>
+	<dict>
+		<key>en</key>
+		<string>Expiry</string>
+		<key>ar</key>
+		<string>تاريخ انتهاء الصلاحية</string>
+	</dict>
+	<key>TEXT REG NO</key>
+	<dict>
+		<key>en</key>
+		<string>Reg. No.</string>
+		<key>ar</key>
+		<string>رقم التسجيل</string>
+	</dict>
+	<key>TEXT TRIM</key>
+	<dict>
+		<key>en</key>
+		<string>TRIM</string>
+		<key>ar</key>
+		<string>تقليم</string>
+	</dict>
+	<key>TEXT COLOR</key>
+	<dict>
+		<key>en</key>
+		<string>COLOUR</string>
+		<key>ar</key>
+		<string>اللون</string>
+	</dict>
+	<key>TEXT OTHER BRAND</key>
+	<dict>
+		<key>en</key>
+		<string>If other brand enter here</string>
+		<key>ar</key>
+		<string>أدخل هنا إذا كانت علامة تجارية أخرى</string>
+	</dict>
+	<key>TEXT NO OFFER</key>
+	<dict>
+		<key>en</key>
+		<string>Sorry, there are no offers for the above selection. Please try again</string>
+		<key>ar</key>
+		<string>.عفواً لا يوجد عروض للسيارة التي اخترتها أعلاه. الرجاء المحاولة من جديد</string>
+	</dict>
+	<key>TEXT NO MODEL IN CATEGORY</key>
+	<dict>
+		<key>en</key>
+		<string>There is no model in this category</string>
+		<key>ar</key>
+		<string>لا يوجد نموذج في هذه الفئة</string>
+	</dict>
+	<key>TEXT NO PRE-OWNED ITEMS</key>
+	<dict>
+		<key>en</key>
+		<string>Sorry there are no options for the selection, Please try again.</string>
+		<key>ar</key>
+		<string>يرجى الرجوع إلى الصفحة الإنجليزية لعروض السيارات المستعملة</string>
+	</dict>
+	<key>TEXT SAVED SUCCESSFULLY</key>
+	<dict>
+		<key>en</key>
+		<string>Saved Successfully</string>
+		<key>ar</key>
+		<string>حفظ بنجاح</string>
+	</dict>
+	<key>TEXT DEFAULT PREOWNED DISCLAIMER MESSAGE</key>
+	<dict>
+		<key>en</key>
+		<string>Please note that the images shown on the pre-owned cars may not be that if the actual vehicle</string>
+		<key>ar</key>
+		<string>يرجى الملاحظة إلى أن الصور المبيّنة بالنسبة للسيارات المستعملة قد لا تكون مثل السيارة الفعلية</string>
+	</dict>
+	<key>TEXT YES</key>
+	<dict>
+		<key>en</key>
+		<string>YES</string>
+		<key>ar</key>
+		<string>نعم</string>
+	</dict>
+	<key>TEXT NO</key>
+	<dict>
+		<key>en</key>
+		<string>NO</string>
+		<key>ar</key>
+		<string>لا</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,56 @@
+//
+//  ATMPrefixHeader.pch
+//  AlTayerMotor
+//
+//  Created by Niteco Macmini 5wdwyl  on 10/14/15.
+//  Copyright © 2015 Niteco. All rights reserved.
+//
+
+#ifndef ATMPrefixHeader_pch
+#define ATMPrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <MagicalRecord/MagicalRecord.h>
+#import "ATMConstant.h"
+#import "APIEndpoints.h"
+#import "NSArray+LinqExtensions.h"
+#import "AppDelegate.h"
+#import "ATMGlobal.h"
+#import "GTMHelper.h"
+#import "LanguagesManager.h"
+#import "UIView+Utils.h"
+
+#define APP_DELEGATE ((AppDelegate *)[[UIApplication sharedApplication] delegate])
+#define LOCALIZED(v) [[LanguagesManager sharedInstance] getTextForKey:v]
+#define LANGUAGE_TRANSFORM CGAffineTransformMakeScale([ATMGlobal isEnglish] ? 1 : -1,1)
+#define IMAGE_MULTIPLE_LANGUAGE(v) [UIImage imageNamed:[NSString stringWithFormat:@"%@%@", v, [ATMGlobal isEnglish] ? @"" : @"_ar"]]
+
+#define SYSTEM_VERSION_EQUAL_TO(v)                  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedSame)
+#define SYSTEM_VERSION_GREATER_THAN(v)              ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedDescending)
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN(v)                 ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN_OR_EQUAL_TO(v)     ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedDescending)
+#define TEXT_ALIGN(v) v.textAlignment = [ATMGlobal isEnglish] ? NSTextAlignmentLeft : NSTextAlignmentRight
+#define AFFINE_TRANSFORM(v) [v.layer setAffineTransform:LANGUAGE_TRANSFORM]
+
+#define IS_IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+#define IS_IPHONE (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+#define IS_IPHONE_4 (IS_IPHONE && [[UIScreen mainScreen] bounds].size.height == 480.0)
+#define IS_IPHONE_5 (IS_IPHONE && [[UIScreen mainScreen] bounds].size.height == 568.0)
+#define IS_IPHONE_6 (IS_IPHONE && [[UIScreen mainScreen] bounds].size.height == 667.0)
+#define IS_IPHONE_6PLUS (IS_IPHONE && [[UIScreen mainScreen] nativeScale] == 3.0f)
+#define IS_IPHONE_6_PLUS (IS_IPHONE && [[UIScreen mainScreen] bounds].size.height == 736.0)
+#define IS_RETINA ([[UIScreen mainScreen] scale] == 2.0)
+#define TRIM(v) [v stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]]
+
+#ifdef DEBUG
+#   define DLog(fmt, ...) NSLog((@"%s [Line %d] " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#   define DLog(...)
+#endif
+
+#endif /* ATMPrefixHeader_pch */

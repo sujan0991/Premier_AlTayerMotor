@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10174" systemVersion="16A323" minimumToolsVersion="Xcode 7.0">
+    <entity name="Brand" representedClassName="Brand" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="logo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="roadside" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="City" representedClassName="City" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nameAR" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="DrivingExperience" representedClassName="DrivingExperience" syncable="YES">
+        <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nameAr" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="GlobalSetting" representedClassName="GlobalSetting" syncable="YES">
+        <attribute name="index" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="key" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nameAR" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="parent_key" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Location" representedClassName="Location" syncable="YES">
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="isBodyShop" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="isServiceCenter" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="isShowRoom" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="lang" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="openHourTitle1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="openHourTitle2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="openHourTitle3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="openHourValue1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="openHourValue2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="openHourValue3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phoneNumber" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PreownedBrand" representedClassName="PreownedBrand" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="logo" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="no_preowned_message" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="no_preowned_message_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="oldest_year" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="roadside" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="url" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="PreownedVehicleModel" representedClassName="PreownedVehicleModel" syncable="YES">
+        <attribute name="brand_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model_year" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="RegisteredVehicle" representedClassName="RegisteredVehicle" syncable="YES">
+        <attribute name="brand_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="model" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="model_year" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="registration_expiry" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="registration_number" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES">
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="first_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="last_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone_number" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="VehicleModel" representedClassName="VehicleModel" syncable="YES">
+        <attribute name="brand_id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="model_year" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Brand" positionX="-18" positionY="90" width="128" height="135"/>
+        <element name="City" positionX="-9" positionY="162" width="128" height="105"/>
+        <element name="DrivingExperience" positionX="-9" positionY="243" width="128" height="90"/>
+        <element name="GlobalSetting" positionX="36" positionY="279" width="128" height="120"/>
+        <element name="Location" positionX="-9" positionY="180" width="128" height="285"/>
+        <element name="PreownedBrand" positionX="0" positionY="252" width="128" height="180"/>
+        <element name="PreownedVehicleModel" positionX="9" positionY="261" width="128" height="135"/>
+        <element name="RegisteredVehicle" positionX="-18" positionY="117" width="128" height="133"/>
+        <element name="User" positionX="0" positionY="171" width="128" height="135"/>
+        <element name="VehicleModel" positionX="-9" positionY="162" width="128" height="150"/>
+    </elements>
+</model>

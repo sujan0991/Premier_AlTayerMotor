@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="LI1-vv-z3Z" customClass="LatestOfferView">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="180"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view alpha="0.40000000000000002" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bX8-cY-kEe">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="180"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zpP-9E-kFa">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="180"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Enjoy peace of mind for 5 years" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Kso-CL-vNc">
+                            <rect key="frame" x="30" y="129" width="260" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="21" id="klC-nI-kCM"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="SAVE UP TO AED 40,000 NOW" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fKM-gQ-YXD">
+                            <rect key="frame" x="30" y="78" width="260" height="55"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="55" id="QUZ-3O-ULY"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="23"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="2015 FORD EDGE" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WSM-bf-9qL">
+                            <rect key="frame" x="30" y="59" width="260" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="21" id="n6J-Lj-uPj"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="LATEST OFFER (ALL BRANDS)" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N1D-e9-msQ">
+                            <rect key="frame" x="30" y="20" width="261" height="21"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="261" id="QlL-bd-Nwu"/>
+                                <constraint firstAttribute="height" constant="21" id="pCV-JG-qF8"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="calibratedRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="Kso-CL-vNc" firstAttribute="top" secondItem="WSM-bf-9qL" secondAttribute="bottom" constant="49" id="Eif-s2-QFi"/>
+                        <constraint firstItem="N1D-e9-msQ" firstAttribute="centerX" secondItem="zpP-9E-kFa" secondAttribute="centerX" id="FTw-5E-OvP"/>
+                        <constraint firstItem="Kso-CL-vNc" firstAttribute="leading" secondItem="zpP-9E-kFa" secondAttribute="leading" constant="30" id="FmK-r8-puQ"/>
+                        <constraint firstAttribute="bottom" secondItem="Kso-CL-vNc" secondAttribute="bottom" constant="30" id="Lnm-8S-AFq"/>
+                        <constraint firstAttribute="trailing" secondItem="Kso-CL-vNc" secondAttribute="trailing" constant="30" id="Mcs-XL-tHE"/>
+                        <constraint firstItem="N1D-e9-msQ" firstAttribute="top" secondItem="zpP-9E-kFa" secondAttribute="top" constant="20" id="Xh8-0I-dnD"/>
+                        <constraint firstItem="fKM-gQ-YXD" firstAttribute="leading" secondItem="zpP-9E-kFa" secondAttribute="leading" constant="30" id="ZHy-2D-L40"/>
+                        <constraint firstItem="WSM-bf-9qL" firstAttribute="leading" secondItem="zpP-9E-kFa" secondAttribute="leading" constant="30" id="kG7-ih-hDb"/>
+                        <constraint firstAttribute="bottom" secondItem="fKM-gQ-YXD" secondAttribute="bottom" constant="47" id="rZ1-tC-AhE"/>
+                        <constraint firstAttribute="trailing" secondItem="WSM-bf-9qL" secondAttribute="trailing" constant="30" id="v6t-MQ-nQw"/>
+                        <constraint firstAttribute="trailing" secondItem="fKM-gQ-YXD" secondAttribute="trailing" constant="30" id="wRK-G8-ORQ"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="bX8-cY-kEe" firstAttribute="top" secondItem="LI1-vv-z3Z" secondAttribute="top" id="0xo-pT-7WA"/>
+                <constraint firstAttribute="bottom" secondItem="zpP-9E-kFa" secondAttribute="bottom" id="Nle-uH-2uM"/>
+                <constraint firstAttribute="trailing" secondItem="zpP-9E-kFa" secondAttribute="trailing" id="QhI-OT-Jtu"/>
+                <constraint firstItem="zpP-9E-kFa" firstAttribute="top" secondItem="LI1-vv-z3Z" secondAttribute="top" id="dUR-2m-r7b"/>
+                <constraint firstAttribute="bottom" secondItem="bX8-cY-kEe" secondAttribute="bottom" id="dbV-Uv-D5n"/>
+                <constraint firstItem="bX8-cY-kEe" firstAttribute="leading" secondItem="LI1-vv-z3Z" secondAttribute="leading" id="g7p-hy-tNq"/>
+                <constraint firstItem="zpP-9E-kFa" firstAttribute="leading" secondItem="LI1-vv-z3Z" secondAttribute="leading" id="jCo-MN-HG9"/>
+                <constraint firstAttribute="trailing" secondItem="bX8-cY-kEe" secondAttribute="trailing" id="yQz-eD-rNT"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="lbDescription" destination="Kso-CL-vNc" id="YsU-JE-8Na"/>
+                <outlet property="lbModel" destination="WSM-bf-9qL" id="jFU-9e-H9T"/>
+                <outlet property="lbTitle" destination="fKM-gQ-YXD" id="jhY-bQ-9wo"/>
+                <outlet property="lbType" destination="N1D-e9-msQ" id="ZA3-Ez-mYY"/>
+            </connections>
+            <point key="canvasLocation" x="462" y="-942"/>
+        </view>
+    </objects>
+</document>
